@@ -8,7 +8,7 @@ Therefore if we can determine 'if the first stage will land', we can determine t
 
 **Use of Data science and methodology**
 
-It includes collecting data and analyzing it with various methods, visualization and prediction.
+It includes Data collection, exploratory data analysis, visualization with various methods, feature engineering, normalization, use of ML model and prediction.
 
 We will make an use of classification model for launch outcome for predicting success rate.
 
